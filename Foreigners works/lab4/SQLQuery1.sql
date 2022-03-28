@@ -1,0 +1,15 @@
+--CREATE VIEW MyView AS SELECT Customers.LastName AS 'CustomerSurname', Customers.City As 'City', Customers.[Email] AS 'Email' FROM Customers;
+--SELECT * FROM MyView;
+--ALTER VIEW dbo.MyView as SELECT Customers.LastName AS 'CustomerSurname', Customers.City As 'City', Customers.[Email] AS 'Email',
+--Customers.Adress As 'Adress', Customers.CompanyName AS 'Company', Customers.FirstName as 'FirstName' FROM Customers WHERE City = 'Tambov';
+--SELECT * FROM MyView;
+--INSERT INTO dbo.MyView VALUES('Rubashkina', 'Tambov', 'Rubashka@yandex.ru', 'Odejda street', 'Rubashki', 'Tanya');
+--SELECT * FROM MyView;
+--ALTER VIEW dbo.MyView as SELECT Customers.LastName AS 'CustomerSurname', Customers.City As 'City', Customers.Email AS 'Email',
+--Customers.Adress As 'Adress', Customers.CompanyName AS 'Company', Customers.FirstName as 'FirstName', Customers.IndexCode as 'Index' 
+--FROM Customers WHERE City = 'Tambov' WITH CHECK OPTION;
+--SELECT * FROM MyView;
+--INSERT INTO dbo.MyView VALUES('Rubashkina', 'Moscow', 'Rubashka@yandex.ru', 'Odejda street', 'Rubashki', 'Tanya');
+--Drop VIEW MyView
+--SELECT * FROM MyView;
+--Select * From MyView1;

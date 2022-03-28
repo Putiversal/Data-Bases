@@ -1,0 +1,1 @@
+SELECT City, COUNT(City) as 'number' FROM dbo.Customers GROUP BY City

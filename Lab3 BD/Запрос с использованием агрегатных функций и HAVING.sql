@@ -1,0 +1,1 @@
+SELECT City, COUNT(*) as number FROM dbo.Customers GROUP BY City HAVING City LIKE '%os%'

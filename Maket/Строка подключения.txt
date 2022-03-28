@@ -1,0 +1,1 @@
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source="|DataDirectory|\Модульное МД Финал 1.0.mdb"

@@ -1,0 +1,1 @@
+SELECT * FROM dbo.Products WHERE PrPrice BETWEEN 50 AND 300 ORDER BY PrPrice;

@@ -1,0 +1,4 @@
+-- Проц Mean Value - среднее значение
+-- Триггер на Incert в Customers (Переводит в верхний регистр FirstName)
+-- Триггер на Delete в Customers и Items 
+-- Триггер на Update в Customers и Items 

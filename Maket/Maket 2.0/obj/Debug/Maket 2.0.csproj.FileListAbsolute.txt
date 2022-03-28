@@ -1,0 +1,103 @@
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Maket 2.0.exe.config
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Maket 2.0.exe
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Maket 2.0.pdb
+C:\study\4 сем\БД\Maket\Maket 2.0\obj\Debug\Maket_2._0.Properties.Resources.resources
+C:\study\4 сем\БД\Maket\Maket 2.0\obj\Debug\Maket 2.0.csproj.GenerateResource.cache
+C:\study\4 сем\БД\Maket\Maket 2.0\obj\Debug\Maket 2.0.csproj.CoreCompileInputs.cache
+C:\study\4 сем\БД\Maket\Maket 2.0\obj\Debug\Maket 2.0.exe
+C:\study\4 сем\БД\Maket\Maket 2.0\obj\Debug\Maket 2.0.pdb
+C:\study\4 сем\БД\Maket\Maket 2.0\obj\Debug\Maket_2._0.Autorisation.resources
+C:\study\4 сем\БД\Maket\Maket 2.0\obj\Debug\Maket_2._0.Админ.resources
+C:\study\4 сем\БД\Maket\Maket 2.0\obj\Debug\Maket_2._0.Бугалтер.resources
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\BouncyCastle.Crypto.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Google.Protobuf.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\K4os.Compression.LZ4.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\K4os.Hash.xxHash.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\MySql.Data.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\System.Buffers.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\System.Memory.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\System.Numerics.Vectors.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Ubiety.Dns.Core.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Zstandard.Net.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\EnvDTE.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\stdole.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Microsoft.MSXML.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Google.Protobuf.pdb
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\Google.Protobuf.xml
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\K4os.Compression.LZ4.xml
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\K4os.Hash.xxHash.xml
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\MySql.Data.xml
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\System.Buffers.xml
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\System.Memory.xml
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\System.Numerics.Vectors.xml
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\obj\Debug\Maket 2.0.csproj.CopyComplete
+C:\study\4 сем\БД\Maket\Maket 2.0\obj\Debug\Maket_2._0.Personal.resources
+C:\study\4 сем\БД\Maket\Maket 2.0\obj\Debug\Maket_2._0.Editing.resources
+C:\study\4 сем\БД\Maket\Maket 2.0\obj\Debug\Maket_2._0.Requests.resources
+C:\study\4 сем\БД\Maket\Maket 2.0\obj\Debug\Maket_2._0.Groups.resources
+C:\study\4 сем\БД\Maket\Maket 2.0\obj\Debug\Maket_2._0.Offices.resources
+C:\study\4 сем\БД\Maket\Maket 2.0\obj\Debug\Maket_2._0.Partys.resources
+C:\study\4 сем\БД\Maket\Maket 2.0\obj\Debug\Maket_2._0.Projects.resources
+C:\study\4 сем\БД\Maket\Maket 2.0\obj\Debug\Maket_2._0.Transport.resources
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\System.Data.SqlClient.dll
+C:\study\4 сем\БД\Maket\Maket 2.0\bin\Debug\System.Data.SqlClient.xml
+C:\study\4 сем\БД\Maket\Maket 2.0\obj\Debug\Maket 2.0.csprojAssemblyReference.cache

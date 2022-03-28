@@ -1,0 +1,1 @@
+Drop VIEW MyView
